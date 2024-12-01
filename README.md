@@ -1,10 +1,12 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge"/>
+
 # Halo semua! 
 
-Perkenalkan nama saya **Alif Arya Kusuma**.<br>
+My Name is **Alif Arya Kusuma**.<br>
 
-Saya seorang **Android Developer** di [Dicoding](https://www.dicoding.com/).<br>
+Im an **Android Developer** di [Dicoding](https://www.dicoding.com/).<br>
 
-Saya bertanggung jawab pada back-end di organisasi UTY Software House. <br>
+I am responsible for the **back-end** in the UTY Software House organization.<br>
 
 Saya juga telah menekuni bidang Web Developer sejak tahun 2022<br>
 
