@@ -9,7 +9,7 @@
 
 My Name is **Alif Arya**.<br>
 
-Im an **Android Developer** di [Dicoding](https://www.dicoding.com/).<br>
+Im an **Android Developer** in [Dicoding](https://www.dicoding.com/).<br>
 
 I am responsible for the **back-end** in the UTY Software House organization.<br>
 
